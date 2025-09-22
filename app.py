@@ -14,7 +14,7 @@ with st.sidebar:
     )
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
-    **RANTAI** Sentinel adalah automated ESG compliance manager yang mengintegrasikan data blockchain, data operasional perusahaan, serta standar global ESG untuk membantu organisasi memantau dan memenuhi regulasi keberlanjutan secara otomatis.
+    **RANTAI Sentinel** adalah automated ESG compliance manager yang mengintegrasikan data blockchain, data operasional perusahaan, serta standar global ESG untuk membantu organisasi memantau dan memenuhi regulasi keberlanjutan secara otomatis.
     
     ---
     #### 🔮 Vision Statement
